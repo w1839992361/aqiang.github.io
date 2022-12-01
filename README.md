@@ -31,7 +31,6 @@
 
 #### 保持联系 📫
 - Mail: **1839992361@qq.com**
-- Personal site: **[aqiangge.xyz](http://www.aqiangge.xyz:1111)**
 
 ### 当前页面访问计数
 
