@@ -34,4 +34,4 @@
 
 ### 当前页面访问计数
 
-![adlered](https://count.getloli.com/get/@aqiang)
+/* ![adlered](https://count.getloli.com/get/@aqiang) */
