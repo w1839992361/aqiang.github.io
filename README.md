@@ -32,6 +32,4 @@
 #### 保持联系 📫
 - Mail: **1839992361@qq.com**
 
-### 当前页面访问计数
 
-/* ![adlered](https://count.getloli.com/get/@aqiang) */
