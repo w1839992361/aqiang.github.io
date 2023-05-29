@@ -12,7 +12,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 #### About 🌏
 - 
@@ -20,7 +20,7 @@
 
 #### Work 🔭
 - 目前在大二下学期
-
+-->
 #### 我已经掌握了这些技能 😄
 - **HTML CSS JavaScript**
 - **Node.js PHP**
