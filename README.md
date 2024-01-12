@@ -22,9 +22,7 @@
 - 目前在大二下学期
 -->
 #### 我已经掌握了这些技能 😄
-- **HTML CSS JavaScript**
-- **Node.js PHP**
-- **Vue Bootstrap ElementUi jQuery**
+...
 
 #### 与我交流 💬
 - Frontend development
